@@ -1,0 +1,37 @@
+.meetaddr .van-checkbox__icon .van-icon {
+  border: 1px solid #999;
+  width: 13px;
+  height: 13px;
+  line-height: 11px;
+  overflow: hidden;
+}
+.meetaddr .van-checkbox__icon {
+  padding-right: 11px;
+}
+.meetaddr .van-radio__icon {
+  margin-top: 2px;
+}
+.meetaddr .van-cell--clickable:active {
+  background-color: #ebedf2;
+}
+.meetaddr .nint .van-radio__icon--round .van-icon {
+  border: 1px solid #e95c3b;
+  width: 15px;
+  height: 15px;
+  line-height: 13px;
+  overflow: hidden;
+}
+.meetaddr .nint .van-field__control {
+  text-align: left;
+}
+.meetaddr .gary .van-radio__icon--round .van-icon {
+  border: 1px solid #999;
+  width: 15px;
+  height: 15px;
+  line-height: 13px;
+  overflow: hidden;
+}
+.meetaddr .gary .van-field__control {
+  color: #999;
+  text-align: left;
+}

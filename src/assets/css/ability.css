@@ -1,0 +1,33 @@
+.ability .tpop {
+  margin: 0 auto;
+}
+.ability .tpop .textarea {
+  width: 240px;
+  height: 145px;
+  margin: 0 auto;
+  font-size: 15px;
+  text-align: justify;
+  padding: 4px 8px;
+  border: 0;
+  background-color: #F6F8F9;
+  resize: none;
+  border-radius: 5px;
+}
+.ability .tpop .van-cell__value--alone {
+  text-align: justify;
+}
+.ability .tpop .van-field__control {
+  text-align: justify;
+}
+.ability .tpop .van-field--min-height .van-field__control {
+  height: 135px;
+  line-height: 22px;
+}
+.ability .tpop .van-field__control {
+  height: 135px;
+  font-size: 13px;
+}
+.ability .tpop .showpop .van-field__control {
+  height: 580px;
+  font-size: 16px;
+}
